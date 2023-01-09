@@ -5,6 +5,7 @@ public class NumerosPerfectos {
         	if(esPerfecto(i))
         		System.out.println(i);
         }
+		System.out.println("Gracias por usar el programa.");
 	}
 	static boolean esPerfecto(int n) {
 		int suma=0;
